@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ruby On Rails Developer and DevOps</h1>
+<h1 align="center">Hi 👋, I'm Ruby On Rails Developer</h1>
 <h3 align="center">I’ve worked with startups, we developed a crowdfunding platform and e-commerce platform. I am well versed in the architecture of web applications. I can deploy applications using the pattern "Architecture as Code" and develop applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onedal&label=Profile%20views&color=0e75b6&style=flat" alt="onedal" /> </p>
 
 - 🌱 I’m currently learning **Rust and blockchains**
 
-- 👨‍💻 All of my projects are available at [https://docs.google.com/document/d/1LZjWld5eMC3t-pCJYJBiIwLOuUUi2v2zbf9qgJzXmmU/edit?usp=sharing](https://docs.google.com/document/d/1LZjWld5eMC3t-pCJYJBiIwLOuUUi2v2zbf9qgJzXmmU/edit?usp=sharing)
+- 👨‍💻 All of my projects and experience [curriculum vitae](https://drive.protonmail.com/urls/9EBVPPR0RC#KxsbqOz46ha9)
 
-- 📫 How to reach me **sunrise3323@gmail.com or (telegram @mega6obep)**
+- 📫 How to reach me **aleksei.kolmogorov@pm.me or (telegram @mega6obep)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
