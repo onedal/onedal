@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onedal&label=Profile%20views&color=0e75b6&style=flat" alt="onedal" /> </p>
 
-- 🌱 I’m currently learning **Rust and blockchains**
+- 🌱 I am currently preparing for aws certification **AWS Certified Solutions Architect**
 
 - 👨‍💻 All of my projects and experience [curriculum vitae](https://drive.protonmail.com/urls/9EBVPPR0RC#KxsbqOz46ha9)
 
