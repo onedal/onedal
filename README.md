@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects and experience [curriculum vitae](https://drive.protonmail.com/urls/9EBVPPR0RC#KxsbqOz46ha9)
 
-- 📫 How to reach me **aleksei.kolmogorov@pm.me or (telegram @mega6obep)**
+- 📫 How to reach me **sunrise3323@gmail.com or (telegram @mega6obep)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
