@@ -5,7 +5,7 @@
 
 - 🌱 I am currently preparing for aws certification **AWS Certified Solutions Architect**
 
-- 📫 How to reach me **sunrise3323@gmail.com or (telegram @mega6obep)**
+- 📫 How to reach me telegram @megabobep
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
